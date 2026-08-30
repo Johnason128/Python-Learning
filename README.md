@@ -9,4 +9,4 @@ This is a personal interest-driven repository for learning and practicing Python
 This repository focuses exclusively on Python learning and practice.
 
 ## 学习进度 | Progress
-- 待更新... (To be updated...)
+- **练习 1**：Python 基础语法、变量与数据类型 | Practice 1: Python Basic Syntax, Variables, and Data Types
