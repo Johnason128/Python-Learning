@@ -12,3 +12,4 @@ This repository focuses exclusively on Python learning and practice.
 - **练习 1**：Python 基础语法、变量与数据类型 | Practice 1: Python Basic Syntax, Variables, and Data Types
 - **练习 2**：变量定义与字符串格式化（模拟股价计算） | Practice 2: Variable Definition and String Formatting (Simulated Stock Price Calculation)
 - **练习 3**：用户输入与类型转换（模拟登录） | Practice 3: User Input and Type Conversion (Simulated Login)
+- **练习 4**：用户登录验证系统（条件判断与 f-string） | Practice 4: User Login Verification System (Conditional Statements and f-string)
